@@ -56,7 +56,7 @@ In this demo, we employ the OMIDR method (perform_feature_selection) to select t
    ```python
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from omidr import perform_feature_selection
+from OMIDR import perform_feature_selection
 
 # Load your multi-omics dataset (e.g., CSV format)
 dataset_path = 'path_to_your_dataset.csv'
