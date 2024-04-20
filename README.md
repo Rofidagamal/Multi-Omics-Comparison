@@ -44,7 +44,7 @@ OMIDR utilizes an ensemble modeling approach combined with feature scoring techn
 
 ### 1. Download OMIDR_Selector.py
 
-Please download the `OMIDR_Selector.py` script from the OMIDR repository.
+Please download the `OMIDR.py` script from the OMIDR repository.
 ### 2. Naming
 - name your transcriptomic features each to start with "Trans_"
 - name your microbiomic features each to start with "Micro_"
