@@ -2,7 +2,7 @@
 
 **OMIDR** (Omics Integration for Dimensionality Reduction) is a tool designed for performing feature selection on multi-omics data, mainly for transcriptomic (trans) and microbiomic (micro) data. It helps in identifying the top features from each omic type, aiding in dimensionality reduction and enhancing data analysis efficiency.
 
-![WhatsApp Image 2024-05-12 at 1 16 49 AM](https://github.com/Rofidagamal/Multi-Omics-Comparison/assets/71707842/77b1be51-5216-40fe-8a0a-cfb8b319e98d)
+![Uploading WhatsApp Image 2024-05-12 at 1.16.49 AM.png…]()
 
 ## OMIDR Methodology Overview
 
