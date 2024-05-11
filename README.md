@@ -4,6 +4,7 @@
 
 ![Uploading WhatsApp Image 2024-05-12 at 1.16.49 AM.png…]()
 
+
 ## OMIDR Methodology Overview
 
 OMIDR utilizes an ensemble modeling approach combined with feature scoring techniques to perform feature selection on multi-omics data. The methodology can be summarized as follows:
